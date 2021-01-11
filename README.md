@@ -19,4 +19,4 @@ Default comand to start the server in production.\
 
 ## Developer
 
-Developed by [http://mzrdeveloper.com](http://mzrdeveloper.com).
+Developed by [mzrdeveloper](http://mzrdeveloper.com).
